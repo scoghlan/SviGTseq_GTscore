@@ -6,9 +6,7 @@ About the data
 
 The raw sequence data used for this example is a subset of the data from: McKinney et al. 2020. Dense SNP panels resolve closely related Chinook salmon populations. Canadian Journal of Fisheries and Aquatic Sciences (77) 451-461. DOI: 10.1139/cjfas-2019-0067
 
-Sequence data can be downloaded from NCBI BioProject PRJNA561127
-
-I have also made three “contaminated” samples by combining sequence reads from the following individuals: KAROL05_0009 and KAROL05_0010, KAROL05_0025 and KAROL05_0026, and KAROL05_0028 and KAROL05_0029. These are used to demononstrate how to identify contaminated samples.
+*Removed BJCreekFCS-Lot213-Fish10-Female_merged.fastq  BJCreekFCS-Lot213-Fish14-Female_merged.fastq  GrandRiver-47_merged.fastq	GrandRiver-51_merged.fastq prior to further analysis due to significantly lower read counts.
 
 Count reads for amplicons
 
